@@ -1,0 +1,10 @@
+C:\Users\DELL\OneDrive - NSBM\NSBM\1st YEAR\3rd Semester\C#\Lab sheets\Answers\Lab 03\The calculator\bin\Debug\The calculator.exe.config
+C:\Users\DELL\OneDrive - NSBM\NSBM\1st YEAR\3rd Semester\C#\Lab sheets\Answers\Lab 03\The calculator\bin\Debug\The calculator.exe
+C:\Users\DELL\OneDrive - NSBM\NSBM\1st YEAR\3rd Semester\C#\Lab sheets\Answers\Lab 03\The calculator\bin\Debug\The calculator.pdb
+C:\Users\DELL\OneDrive - NSBM\NSBM\1st YEAR\3rd Semester\C#\Lab sheets\Answers\Lab 03\The calculator\obj\Debug\The calculator.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - NSBM\NSBM\1st YEAR\3rd Semester\C#\Lab sheets\Answers\Lab 03\The calculator\obj\Debug\The_calculator.Form1.resources
+C:\Users\DELL\OneDrive - NSBM\NSBM\1st YEAR\3rd Semester\C#\Lab sheets\Answers\Lab 03\The calculator\obj\Debug\The_calculator.Properties.Resources.resources
+C:\Users\DELL\OneDrive - NSBM\NSBM\1st YEAR\3rd Semester\C#\Lab sheets\Answers\Lab 03\The calculator\obj\Debug\The calculator.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive - NSBM\NSBM\1st YEAR\3rd Semester\C#\Lab sheets\Answers\Lab 03\The calculator\obj\Debug\The calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - NSBM\NSBM\1st YEAR\3rd Semester\C#\Lab sheets\Answers\Lab 03\The calculator\obj\Debug\The calculator.exe
+C:\Users\DELL\OneDrive - NSBM\NSBM\1st YEAR\3rd Semester\C#\Lab sheets\Answers\Lab 03\The calculator\obj\Debug\The calculator.pdb
